@@ -1,0 +1,14 @@
+# Frontend
+homzy-frontend/node_modules/
+homzy-frontend/dist/
+
+# Backend
+homzy-backend/backend/target/
+
+# Eclipse
+homzy-backend/backend/.classpath
+homzy-backend/backend/.project
+homzy-backend/backend/.settings/
+
+# Logs
+*.log
