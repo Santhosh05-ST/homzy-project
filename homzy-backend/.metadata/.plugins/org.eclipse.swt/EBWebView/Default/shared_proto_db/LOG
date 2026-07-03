@@ -1,2 +1,3 @@
-2026/06/22-14:49:23.563 1824 Creating DB D:\HOMZY-back\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db since it was missing.
-2026/06/22-14:49:23.573 1824 Reusing MANIFEST D:\HOMZY-back\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/07/03-15:02:24.483 4b18 Reusing MANIFEST D:\HOMZY-pack\homzy-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2026/07/03-15:02:24.485 4b18 Recovering log #3
+2026/07/03-15:02:24.485 4b18 Reusing old log D:\HOMZY-pack\homzy-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/000003.log 

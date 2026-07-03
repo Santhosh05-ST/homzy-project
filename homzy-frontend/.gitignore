@@ -12,3 +12,6 @@ homzy-backend/backend/.settings/
 
 # Logs
 *.log
+
+.env
+application-secret.properties

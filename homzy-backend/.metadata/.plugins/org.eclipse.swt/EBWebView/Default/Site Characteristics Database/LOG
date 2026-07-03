@@ -1,2 +1,3 @@
-2026/06/22-14:49:23.514 1670 Creating DB D:\HOMZY-back\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database since it was missing.
-2026/06/22-14:49:23.536 1670 Reusing MANIFEST D:\HOMZY-back\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/07/03-15:02:24.442 3ec8 Reusing MANIFEST D:\HOMZY-pack\homzy-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/07/03-15:02:24.445 3ec8 Recovering log #3
+2026/07/03-15:02:24.446 3ec8 Reusing old log D:\HOMZY-pack\homzy-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 

@@ -1,2 +1,3 @@
-2026/06/22-14:49:23.529 1824 Creating DB D:\HOMZY-back\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2026/06/22-14:49:23.545 1824 Reusing MANIFEST D:\HOMZY-back\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/03-15:02:24.442 3980 Reusing MANIFEST D:\HOMZY-pack\homzy-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/07/03-15:02:24.445 3980 Recovering log #3
+2026/07/03-15:02:24.446 3980 Reusing old log D:\HOMZY-pack\homzy-backend\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 
